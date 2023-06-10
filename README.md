@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simratkaur0
 - 👀 I’m interested in computer system technician networking projects,assignments,co-op positions
-- 🌱 I’m currently learning networking
+- 🌱 I’m currently learning cisco, mysql , cyber security.
 - 📫 How to reach me @simratdhanday0098@gmail.com
 
 <!---
